@@ -1,0 +1,3 @@
+just some random updates to practice Git 
+Git R Done
+Git it!   Remember who and what you do this for
